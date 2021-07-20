@@ -111,4 +111,5 @@ def Set_position(position):
  
 if __name__ == '__main__':
     layoutFilmAction()
+    print("ok")
     
